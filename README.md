@@ -90,3 +90,14 @@ Understanding how systems behave under different conditions
 Thinking like a user and like a developer
 
 Continuous learning and improvement
+
+👤 About Me
+
+I'm a QA Engineer in training, committed to delivering reliable and high-quality software.
+I enjoy analytical work, breaking things to understand them, and documenting findings in a clear and organized way.
+
+📫 Contact
+
+LinkedIn: https://www.linkedin.com/in/sergio-romo-a802632b9
+
+Email: sergioromoramirez@outlook.com
